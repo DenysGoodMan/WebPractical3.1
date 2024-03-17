@@ -13,7 +13,7 @@ body{
 .container{
     justify-content: space-between;
     max-width: 1920px;
-    min-width: 900px;
+    min-width: 1920px;
     margin: 0px auto;
 }
 ul,li{
