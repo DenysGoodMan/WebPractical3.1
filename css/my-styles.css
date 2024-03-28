@@ -7,11 +7,13 @@ html{
 body{
     font-family: sans-serif;
     background-color: rgb(215, 219, 192);
-    margin-top: 60px;
+    margin-top: 240px;
 }
 
 .container{
     justify-content: space-between;
+    display: flex;
+    align-items: center;
     max-width: 1920px;
     min-width: 1920px;
     margin: 0px auto;
